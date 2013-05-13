@@ -1,5 +1,5 @@
 {
-  "name": "solo",
+  "name": "node-solo",
   "description": "Super simple module to make a server from a static file",
   "version": "0.0.1",
   "homepage": "https://github.com/richmarr/solo",

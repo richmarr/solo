@@ -7,7 +7,7 @@ Very basic server for running a single HTML file, useful for tests
 
 installation:
 ```shell
-npm install solo --save-dev
+npm install node-solo --save-dev
 ```
 
 command-line usage:
