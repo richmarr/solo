@@ -1,3 +1,10 @@
 #!/usr/bin/env node
 
-require("../lib/solo");
+var argv = require('optimist')
+        .usage('Usage: solo [file]')
+        .demand(1)
+        .describe("p","The port number to run the server on")
+        .alias("p","port")
+        .argv
+        
+require("../lib/solo").run(argv);
