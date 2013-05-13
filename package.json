@@ -1,7 +1,7 @@
 {
   "name": "node-solo",
   "description": "Super simple module to make a server from a static file",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/richmarr/solo",
   "author": {
     "name": "Richard Marr"
