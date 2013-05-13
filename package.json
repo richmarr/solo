@@ -23,9 +23,6 @@
   "engines": {
     "node": "*"
   },
-  "scripts": {
-    "test": "grunt test -v"
-  },
   "dependencies": {
     "optimist": "~0.4.0"
   },
@@ -33,7 +30,7 @@
     "grunt": "~0.4.0"
   },
   "keywords": [
-    ""
+    "static","shell","http"
   ],
   "bin":{
       "solo":"./bin/solo"
